@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31004.235
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JintTest", "JintTest\JintTest.csproj", "{1D2BB596-1022-4A18-9740-B93A4EE5D62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D2BB596-1022-4A18-9740-B93A4EE5D62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2BB596-1022-4A18-9740-B93A4EE5D62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2BB596-1022-4A18-9740-B93A4EE5D62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2BB596-1022-4A18-9740-B93A4EE5D62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0C5BE2-903E-43EB-92FD-21AF00CBE3C6}
+	EndGlobalSection
+EndGlobal
